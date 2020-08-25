@@ -1,12 +1,9 @@
 # Stately
 
-STATE INCORPORATION RESOURCES
+> STATE INCORPORATION RESOURCES
 
 ## By State
 
-List
-of
-states
 
 |**State**|**Link**|
 |---------|--------|
